@@ -1,6 +1,6 @@
 # Break-through game
 
-This project was implemented as a home assigment within the Programming Technology course, ELTE, Autumn 2023.
+This project was implemented as a home assignment within the Programming Technology course, ELTE, Autumn 2023.
 
 ## Description
 
